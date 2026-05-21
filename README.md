@@ -1,4 +1,4 @@
-[power electronic report.pdf](https://github.com/user-attachments/files/28109547/power.electronic.report.pdf)# IR-Object-Detection-and-Dual-Alert-System
+# IR-Object-Detection-and-Dual-Alert-System
 Hardware-based IR object detection and dual alert system using BC547 and IRFZ44N MOSFET.
 
 #  Transistor-MOSFET Based IR Object Detection and Dual Alert System
